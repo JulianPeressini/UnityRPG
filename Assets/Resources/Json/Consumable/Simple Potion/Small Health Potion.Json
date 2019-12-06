@@ -1,0 +1,1 @@
+{"itemID":10001,"name":"Small Health Potion","headerDescription":"Potion","description":"A popular concotion amongst new adventurers. Restores a small amount of health.","tier":1,"goldValue":20.0,"goldValueOffset":5.0,"hpGain":100.0,"mpGain":0.0,"recoveryTime":4.0}
